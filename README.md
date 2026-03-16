@@ -1,4 +1,4 @@
-![Mining Flotation Analysis](mining_flotation_analysis.png)
+![Mining Flotation Analysis](Images/Correlation%20Between%20Iron%20and%20Silica%20Concentrates.JPG)
 
 # Mining-flotation-process-analysis
 Exploratory Data Analysis of a mining flotation process using Python to understand relationships between process variables and iron recovery.
