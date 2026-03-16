@@ -20,13 +20,11 @@ Python
 
 Pandas
 
-NumPy
-
 Matplotlib
 
 Seaborn
 
-Jupyter Notebook
+Deepnote Notebook
 
 Key Analytical Questions
 
